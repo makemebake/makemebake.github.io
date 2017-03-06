@@ -1,9 +1,42 @@
-<!DOCTYPE html> 
-<html>
 
-<body>
-<h1> hello </h1>
+     header{text-align:center;
+              background:url("images/bg.jpg");
+              background-size:contain;
+              text-align: center;
+              background-repeat: no-repeat;
+              background-position: center;
+              background-color:#F49AC2;}
+      
 
-</body>
+      a{ color:white;
+        font-size: 20px;}
+      
 
-</html>
+      h1{font-size:70px;
+         color: white;}
+   
+  
+      
+
+      img{margin:40px 0px 0px 0px;
+          border:7px solid white;
+          border-radius:20px;}
+      
+
+      ul{ padding: 10px;
+          background:#00CED1;
+          border:2px solid white;}
+      
+
+      li{display:inline;
+          padding: 0px 10px 0px 10px;}
+
+body{background-color:#CB99C9;}
+
+      h4{padding:10px;
+    text-align: center;
+       }
+
+p{color:white;
+font-size: 18px;
+text-align: center;}
