@@ -1,0 +1,50 @@
+body {
+  background-image: url(cupcakebig.png);
+  background-size: 150px 150px;
+}
+
+
+h1 {
+  font-family: 'Pangolin', 'calibri';
+   padding-bottom: 0px;
+  text-align: center;
+  font-size: 150px;
+  padding-top: 40px;
+  font-weight: bold;
+  color: #F7E8A2;
+}
+
+
+h3 {
+  font-family: 'Pangolin', 'calibri';
+  padding-top: 0px;
+  margin: 10px 0px 0px 0px;
+  text-align: center;
+  color: #F7E8A2;
+}
+
+
+form {
+  font-family: 'Pangolin', 'calibri';
+  margin: 50px 0px 90px 0px;
+  padding: auto;
+  text-align: center;
+  color: #F7E8A2
+}
+
+label {
+  margin: 0px 5px 0px 10px;
+  padding-bottom: 50px;
+}
+
+#Contact-form {
+  padding: auto;
+  margin: 100px 100px 100px 100px;
+  background-color: #91B4C0;
+  border-style: ridge;
+  border-width: 5px;
+  border-color: #F7E8A2;
+  font-family: 'Pangolin', 'calibri';
+  color: #F7E8A2;
+}
+}
