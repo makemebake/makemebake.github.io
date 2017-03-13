@@ -1,0 +1,28 @@
+.container {
+	width:1000px;
+    margin: 10px 200px 100px 200px;
+    padding:10px;
+    border:5px ridge lightyellow;
+      font-family: 'Pangolin', 'calibri';
+      background-color: #fcf8e3;
+}
+
+
+img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+    align-items: center;
+	border:solid;
+	border-color: white;
+}
+
+
+div {
+	color: lightblue;
+	padding: auto;
+	align-items: center;
+	text-align: center;
+	border-color: yellow;
+	margin: 10px 0px 10px 0px;
+}
+
