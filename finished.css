@@ -1,0 +1,22 @@
+body {
+  background-image: url(cupcakebig.png);
+  background-size: 150px 150px;
+}
+
+h1 {
+  font-family: 'Pangolin', 'calibri';
+  font-size: 50px;
+  text-align: center;
+}
+
+.jumbotron {
+    padding: auto;
+    margin: 100px 150px 50px 150px;
+    background-color: #F8B4BF;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: #F7E8A2;
+    font-family: 'Pangolin', 'calibri';
+    font-size: 50px;
+    text-align: center;
+}
